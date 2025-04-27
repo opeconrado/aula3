@@ -24,7 +24,7 @@ O usuário pode digitar o nome do Pokémon desejado e visualizar detalhes como
 
 ## 🔗 Link da Aplicação Online
 
- Acesse o projeto hospedado aqui [Clique aqui para acessar](httpsSEU-LINK-AQUI.vercel.app)
+ Acesse o projeto hospedado aqui [Clique aqui para acessar](https://aula3-rho.vercel.app/)
 
 ---
 
