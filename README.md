@@ -30,7 +30,9 @@ O usuário pode digitar o nome do Pokémon desejado e visualizar detalhes como
 
 ## 📸 Prints do Projeto
 
-httpsgithub.comuser-attachmentsassets45cf4650-3a30-4e62-ba97-2e6c5e95b480
+
+https://github.com/user-attachments/assets/cecbe978-0124-4e75-bd72-c444907600bd
+
 
 ## 🚀 Como rodar o projeto localmente
 
